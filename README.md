@@ -1,2 +1,2 @@
 # picoCTF-2018
-This are some solutions to the reversing challenges of PicoCTF-2018.
+These are mine solutions to some of the reversing challenges of picoCTF-2018.
